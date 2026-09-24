@@ -15,5 +15,5 @@ The goal of this project is to diagnose a churn spike for a fictional streaming 
 
 ## DATASET USED
 ## DATASET USED
-- <a href=" https://github.com/koredecoker1993-cpu/streaming-churn-analysis_Dashboard/blob/main/streaming_subscription_churn_ra.xlsx">Dataset</a>
+- <a href="https://github.com/koredecoker1993-cpu/streaming-churn-analysis_Dashboard/blob/main/streaming_subscription_churn_ra.xlsx">Dataset</a>
    
