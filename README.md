@@ -1,4 +1,4 @@
-# Subscriber Churn Analysis (Interactive Dashboard using Excel & Power BI)
+# Subscriber Churn Analysis (Interactive Dashboard using Excel & Power BI
 ---
 ## KEY METRICS SUMMARY
 
