@@ -14,4 +14,6 @@
 The goal of this project is to diagnose a churn spike for a fictional streaming subscription business, identify its root causes, and quantify its commercial impact using Excel and Power BI. It focuses on cleaning messy raw data, building KPI analyses, and delivering a stakeholder-ready interactive dashboard.
 
 ## DATASET USED
-- <a href=https://github.com/koredecoker1993-cpu/streaming-churn-analysis_Dashboard/blob/main/streaming_subscription_churn_ra.xlsx">Dataset</a>
+## DATASET USED
+- <a href=" https://github.com/koredecoker1993-cpu/streaming-churn-analysis_Dashboard/blob/main/streaming_subscription_churn_ra.xlsx">Dataset</a>
+   
