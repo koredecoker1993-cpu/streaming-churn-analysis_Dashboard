@@ -28,4 +28,9 @@ The goal of this project is to diagnose a churn spike for a fictional streaming 
 - Data Cleaning: standardized inconsistent text casing, normalized ten spelling variants of the churn flag into a clean binary field, fixed a locale-based date parsing issue, removed duplicate rows, and handled nulls across Region, PaymentMethod, and CancellationDate.
 - Data Transformation: created derived columns including TenureMonths, CancelMonth, and EngagementTier; built DAX measures in Power BI for spike-month filtering, churn rate, revenue lost, and top churn reason.
 - Dashboard Build: designed an interactive Power BI dashboard with four KPI pages and a summary dashboard page featuring drill-down visuals and slicers by Plan and Region.
+
+
+## DASHBOARD`
+<img width="720" height="398" alt="Screenshot (670)" src="https://github.com/user-attachments/assets/fc08a22c-37fd-46a6-8008-b0e57a6e4084" />
+
    
