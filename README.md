@@ -31,7 +31,8 @@ The goal of this project is to diagnose a churn spike for a fictional streaming 
 
 
 ## DASHBOARD`
-<img width="720" height="398" alt="Screenshot (670)" src="https://github.com/user-attachments/assets/fc08a22c-37fd-46a6-8008-b0e57a6e4084" />
+<img width="708" height="400" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/5fa53fb4-51a2-45e9-a60d-b9c1ec0995f6" />
+
 
 ## PROJECT INSIGHT
 - Customer churn spiked sharply in August 2024, rising from a steady 5–10% baseline to a peak of 18.74%, before gradually tapering back down by year-end.
