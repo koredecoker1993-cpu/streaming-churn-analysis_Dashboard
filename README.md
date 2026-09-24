@@ -42,4 +42,7 @@ The goal of this project is to diagnose a churn spike for a fictional streaming 
 ## FINAL CONCLUSION
 This churn analysis project successfully diagnosed the root causes and commercial impact of a subscriber churn spike using Excel and Power BI. The findings reveal that pricing changes and service reliability issues were the primary drivers of churn, disproportionately affecting Standard and Premium plan subscribers. By quantifying the revenue impact and identifying the affected segments, this project demonstrates a complete analytics workflow  from messy raw data through root-cause investigation to a stakeholder-ready, interactive dashboard that supports data-driven retention decisions.
 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=koredecoker1993&label=Profile%20Views&color=0e75b6&style=flat)
+
    
