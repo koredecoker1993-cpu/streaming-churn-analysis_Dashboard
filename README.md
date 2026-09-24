@@ -33,4 +33,13 @@ The goal of this project is to diagnose a churn spike for a fictional streaming 
 ## DASHBOARD`
 <img width="720" height="398" alt="Screenshot (670)" src="https://github.com/user-attachments/assets/fc08a22c-37fd-46a6-8008-b0e57a6e4084" />
 
+## PROJECT INSIGHT
+- Customer churn spiked sharply in August 2024, rising from a steady 5–10% baseline to a peak of 18.74%, before gradually tapering back down by year-end.
+- Standard and Premium plan subscribers accounted for the majority of churned customers during the spike months, making them the segments most affected.
+- Price increases and service outages/reliability issues were the two dominant churn drivers, together accounting for over 70% of spike-month churn.
+- The churn spike resulted in an estimated £18.91K in lost revenue across the two spike months alone, highlighting the direct commercial cost of the issue.
+
+## FINAL CONCLUSION
+This churn analysis project successfully diagnosed the root causes and commercial impact of a subscriber churn spike using Excel and Power BI. The findings reveal that pricing changes and service reliability issues were the primary drivers of churn, disproportionately affecting Standard and Premium plan subscribers. By quantifying the revenue impact and identifying the affected segments, this project demonstrates a complete analytics workflow  from messy raw data through root-cause investigation to a stakeholder-ready, interactive dashboard that supports data-driven retention decisions.
+
    
